@@ -1,0 +1,2 @@
+# TE_A
+SETTING UP GIT
